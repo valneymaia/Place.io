@@ -34,7 +34,7 @@
 		4B0C89C82C8A668C007BD6BE /* TinderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinderView.swift; sourceTree = "<group>"; usesTabs = 0; };
 		4B0C89CA2C8A669E007BD6BE /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		4B0C89CC2C8A66E5007BD6BE /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
-		4B0C89D02C8A67A5007BD6BE /* CommentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CommentsView.swift; path = ../CommentsView.swift; sourceTree = "<group>"; };
+		4B0C89D02C8A67A5007BD6BE /* CommentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsView.swift; sourceTree = "<group>"; };
 		4B0C89D22C8FA711007BD6BE /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		4B0C89D42C8FA796007BD6BE /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		4B0C89D62C90F9F4007BD6BE /* AvaliationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvaliationView.swift; sourceTree = "<group>"; };
